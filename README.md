@@ -1,6 +1,6 @@
 # IDEBIO_Tutorias_Grabadas
 
-Extracción de Enlaces de Vimeo - Generación 42
+Extracción de Enlaces de Vimeo - Generación
 Resumen
 Se extrajeron exitosamente todos los títulos de sesiones y enlaces de Vimeo del archivo JSON 
 Tutorias_G42.json
